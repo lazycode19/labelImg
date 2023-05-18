@@ -5,3 +5,17 @@ input
 icon
 textarea
 row
+heading
+hero_banner
+icon_list_horizontal
+icon_list_vertical
+countdown_timer
+product
+p_title
+p_desc
+p_price
+p_quantity
+p_images
+p_variant
+p_button
+p_list
